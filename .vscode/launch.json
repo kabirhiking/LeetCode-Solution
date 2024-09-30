@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/MY Drive/LeetCode-Solution",
-      "program": "e:/MY Drive/LeetCode-Solution/build/Debug/outDebug",
+      "cwd": "e:/MY Drive/LeetCode-Solution/Algo",
+      "program": "e:/MY Drive/LeetCode-Solution/Algo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
